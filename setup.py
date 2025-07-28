@@ -18,7 +18,7 @@ setup(
         'arrow==0.5.0',
         'future==1.0.0',
         'memoized-property==1.0.2',
-        'requests==2.5.1',
+        'requests==2.32.4',
         'requests-oauthlib==0.4.2',
         'oauthlib==0.7.2'
     ],
